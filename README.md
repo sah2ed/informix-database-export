@@ -142,4 +142,10 @@ Most of the information here comes directly from the IBM documentation that [com
         Back up without selecting storage spaces
         Change the logging mode for databases
 
-**[Comprehensive Differences](https://www.ibm.com/support/knowledgecenter/SSGU8G_12.1.0/com.ibm.bar.doc/ids_bar_177.htm?lang=en)**
+### 3.4. Further Reading
+Please refer to IBM's Documentation for Informix Server v12.10 for a pretty **[comprehensive take on the differences](https://www.ibm.com/docs/en/informix-servers/12.10?topic=concepts-comparison-bar-ontape-utilities)** between `onbar` and `ontape` utilities.
+
+![](Comparison_of_the_ON-Bar_and_ontape_utilities.png)
+
+
+*First published on March 7, 2016*
